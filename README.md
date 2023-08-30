@@ -8,7 +8,7 @@ The name of this project (Nova Galactic) comes from a corporation in Starfield. 
 * Lock target (the user enables the bonding boxes even if it is outside of the centre)
 * Extra UI components in the screen that change with value from the user or current status.
 
-## Video Games Screenshot Gallery
+## Video Game Screenshot Gallery
   
 ![repocard (Small)](https://github.com/ajsb85/novagalactic.ai/assets/663460/5966e9c0-61ad-4c72-9a8b-e966847dfe8e)
 ![v2cy7t0es03b1 (Small)](https://github.com/ajsb85/novagalactic.ai/assets/663460/752daf04-6397-455a-902d-727b6cfd740a)
